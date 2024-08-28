@@ -1,0 +1,14 @@
+{
+    "name": {
+        "first": "Ziqiang",
+        "last": "Zhong"
+    },
+    "fromWisconsin": false,
+    "numCredits": 20.5,
+    "major": "CS",
+    "interests": [
+        "football",
+        "watchMovie",
+        "drive"
+    ]
+}
